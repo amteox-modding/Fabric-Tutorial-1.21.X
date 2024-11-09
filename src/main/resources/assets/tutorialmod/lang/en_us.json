@@ -1,0 +1,47 @@
+{
+  "block.tutorialmod.end_stone_pale_grass_block": "Pale Nylium",
+  "block.tutorialmod.pale_log": "Pale Log",
+  "block.tutorialmod.pale_wood": "Pale Wood",
+
+  "block.tutorialmod.stripped_pale_log": "Stripped Pale Log",
+  "block.tutorialmod.stripped_pale_wood": "Stripped Pale Wood",
+  "block.tutorialmod.pale_planks": "Pale Planks",
+  "block.tutorialmod.pale_stairs": "Pale Stairs",
+  "block.tutorialmod.pale_slab": "Pale Slab",
+  "block.tutorialmod.pale_button": "Pale Button",
+  "block.tutorialmod.pale_pressure_plate": "Pale Pressure Plate",
+  "block.tutorialmod.pale_fence": "Pale Fence",
+  "block.tutorialmod.pale_fence_gate": "Pale Fence Gate",
+  "block.tutorialmod.pale_door": "Pale Door",
+  "block.tutorialmod.pale_trapdoor": "Pale Trapdoor",
+  "block.tutorialmod.crushing_station_block": "Chrushing Station",
+  "block.tutorialmod.pale_leaves": "Pale Leaves",
+  "block.tutorialmod.pale_sapling": "Pale Sapling",
+  "block.tutorialmod.pale_stem": "Pale Stem",
+  "block.tutorialmod.pale_root": "Pale Root",
+  "block.tutorialmod.pale_roots": "Pale Roots",
+  "block.tutorialmod.pale_bush": "Pale Bush",
+  "block.tutorialmod.pale_grass": "Pale Short Grass",
+  "block.tutorialmod.end_magic_block": "End Magic Block",
+  "block.tutorialmod.end_stone_pillar": "End Stone Pillar",
+
+  "block.tutorialmod.enderium_ore": "Enderium ore",
+  "block.tutorialmod.enderium_block": "Enderium Block",
+  "item.tutorialmod.enderium_ingot": "Enderium Ingot",
+  "item.tutorialmod.enderium_shard": "Enderium Shard",
+  "item.tutorialmod.end_dust": "End Dust",
+  "item.tutorialmod.enderium_sword": "Enderium Sword",
+  "item.tutorialmod.enderium_pickaxe": "Enderium Pickaxe",
+  "item.tutorialmod.enderium_axe": "Enderium Axe",
+  "item.tutorialmod.enderium_shovel": "Enderium Shovel",
+  "item.tutorialmod.enderium_hoe": "Enderium Hoe",
+
+
+
+
+
+  "itemgroup.tutorialmod.end_update_blocks": "End Update Blocks",
+  "itemgroup.tutorialmod.end_update_items": "End Update Items",
+  "itemgroup.tutorialmod.end_update_tools_armor": "End Update Tools & Armor"
+
+}

@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/amteox-modding/Fabric-Tutorial-1.21.X"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/tutorialmod/icon.png",
@@ -24,6 +24,7 @@
 		"client": [
 			"net.amteox.tutorialmod.TutorialModClient"
 		]
+
 	},
 	"mixins": [
 		"tutorialmod.mixins.json"
@@ -33,7 +34,9 @@
 		"minecraft": "~1.21.1",
 		"java": ">=21",
 		"fabric-api": "*"
+
 	},
+
 	"suggests": {
 		"another-mod": "*"
 	}
